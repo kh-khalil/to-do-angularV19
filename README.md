@@ -1,6 +1,7 @@
 # TaskManager
+In this project I am implementing a Signal Store accompanied with using the new rxResource and Linked Signals from Angualr V19
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
 ## Development server
 
